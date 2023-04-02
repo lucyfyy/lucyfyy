@@ -43,7 +43,7 @@
 
 <br clear="both">
 
-<img src="https://github.com/lucyfyy/lucyfyy/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/lucyfyy/lucyfyy/blob/output/snake-dark.svg" alt="Snake animation" />
 
 ###
 
