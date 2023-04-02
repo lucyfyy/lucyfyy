@@ -54,13 +54,5 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/lucyfyy/count.svg?"  />
-</div>
-
-###
-
-###
-[![](https://visitcount.itsvg.in/api?id=binsarjr&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=lucyfyy&icon=0&color=0)](https://visitcount.itsvg.in)
 ###
